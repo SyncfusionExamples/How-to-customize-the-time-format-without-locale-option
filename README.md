@@ -1,1 +1,3 @@
-# How-to-customize-the-time-format-without-locale-option
+# EJ2 JavaScript
+
+> This sample demonstrate the way to customize the time format without locale option.
